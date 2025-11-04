@@ -1,0 +1,20 @@
+# PyCharm
+.idea/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data science cache
+.ipynb_checkpoints/
+
+# Ignore test or experimental scripts
+Code_Test.py
+
+# Optional: ignore local outputs or screenshots
+output/
+results/
+*.png
